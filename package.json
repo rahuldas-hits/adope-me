@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/rahuldas-hits/adope-me#readme",
   "devDependencies": {
+    "eslint": "^7.28.0",
+    "eslint-config-prettier": "^8.3.0",
     "prettier": "^2.3.1"
   }
 }
